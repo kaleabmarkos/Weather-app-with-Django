@@ -1,5 +1,3 @@
----
-
 # Django Weather App
 
 ## Overview
@@ -12,30 +10,6 @@ This Django Weather App is a simple web application that allows users to retriev
 - **5-Day Forecast:** View a 5-day forecast, including minimum and maximum temperatures, for the chosen locations.
 - **Multiple Cities:** Compare weather information for two cities side by side.
 
-## Setup
-
-1. **Clone the Repository:**
-   '''bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Get OpenWeatherMap API Key:**
-   - Sign up on [OpenWeatherMap](https://openweathermap.org/) to obtain an API key.
-   - Save the API key in a file named `API_KEY` in the project directory.
-
-4. **Run the Application:**
-   ```bash
-   python manage.py runserver
-   ```
-
-5. **Access the App:**
-   Open your web browser and go to [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to use the Weather App.
 
 ## Usage
 
