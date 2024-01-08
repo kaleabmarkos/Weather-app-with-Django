@@ -15,7 +15,7 @@ This Django Weather App is a simple web application that allows users to retriev
 ## Setup
 
 1. **Clone the Repository:**
-   ```bash
+   '''bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
    ```
